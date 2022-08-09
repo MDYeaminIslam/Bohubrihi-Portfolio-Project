@@ -1,0 +1,70 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+    background-color: lightskyblue;
+}
+.banner-column{
+    background-color: aliceblue;
+}
+.navbar-container{
+    position: sticky;
+    top:0;
+    z-index: 2;
+    background-color: darkslategrey;
+}
+
+.about-container{
+    background-color: #212851;
+}
+.education-container{
+    background-color: #ffa8bb;
+}
+.bg-redtype{
+    background-color: #ff5c7f;
+}
+.redtype-color{
+    color: darkblue;
+}
+.circle{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.project-container{
+    background-color: lightseagreen;
+}
+.portfolio-container{
+    background-color: aliceblue;
+}
+
+.footer{
+    background-color: #2BB3DD;
+}
+
+.footer-circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: white;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+    color: #212851;
+}
+
+
+
+
+
+.gallery-container{
+    background-color: honeydew;
+}
+
+.form-container{
+    background-color: gray;
+}
+.inner-form{
+    background: lightblue;
+}
